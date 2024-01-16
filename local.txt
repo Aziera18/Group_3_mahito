@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Changes from new-feature-2
+=======
+Changes from new-feature
+>>>>>>> new-feature
